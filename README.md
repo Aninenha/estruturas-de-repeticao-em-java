@@ -1,17 +1,17 @@
 # Estruturas de Repetição em Java
 
-Resumo simples e direto
+loops for, for each, while e do while;
 
 ## Módulos do curso:
 
 O conteúdo cobre os seguintes temas:
 
 1. `Estruturas de Repetição`: 
-- [For](localização)
-- [For em Arrays](localização)
-- [Break e Continue](localização)
-- [While](localização)
-- [Do while](localização)
+- [For](/forAula.java)
+- [For em Arrays](/forEmArrays.java)
+- [Break e Continue](/breakEContinue.java)
+- [While](/whileAula.java)
+- [Do while](/doWhile.java)
 
 
 
